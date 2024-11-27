@@ -15,6 +15,11 @@ export const metadata = {
       rel: 'stylesheet',
       href: '/styles/globals.css',
     },
+    {
+      rel: 'icon',
+      href: '/favicon.ico', 
+      type: 'image/x-icon',
+    },
   ],
 };
 
