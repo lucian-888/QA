@@ -14,7 +14,7 @@ export default function Footer() {
             rel="noopener noreferrer" 
             aria-label="Facebook"
           >
-            <img src="images/facebook-icon.png" alt="Facebook" style={{ width: '18px', height: '18px' }} />
+            <img src="images/facebook-icon.png" alt="Facebook" style={{ width: '22px', height: '22px' }} />
           </a>
 
           <a 
@@ -24,7 +24,7 @@ export default function Footer() {
             rel="noopener noreferrer" 
             aria-label="Instagram"
           >
-            <img src="images/instagram-icon.png" alt="Instagram" style={{ width: '18px', height: '18px' }} />
+            <img src="images/instagram-icon.png" alt="Instagram" style={{ width: '22px', height: '22px' }} />
           </a>
       </div>
 
